@@ -1,6 +1,6 @@
 # Application execution:
 
-java -jar smart-xml-analyzer-1.0.jar <origin-file-path> <comparable-file-path> <target-element-id>
+java -jar smart-xml-analyzer-1.0.jar <original_document_path> <comparable_document_path> <target_element_id>
 
 the last parameter is optional(the default target-element-id value is 'make-everything-ok-button')
 
